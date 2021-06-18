@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/newsFragment"
+        android:title="News"
+        android:icon="@drawable/newspaper"/>
+
+    <item
+        android:id="@+id/cityFragment"
+        android:title="City"
+        android:icon="@drawable/aqsa"/>
+
+    <item
+        android:id="@+id/favoriteFragment"
+        android:title="Favorite"
+        android:icon="@drawable/fav"/>
+
+    <item
+        android:id="@+id/aboutFragment"
+        android:title="About"
+        android:icon="@drawable/about"/>
+
+    <item
+        android:id="@+id/settingFragment"
+        android:title="Setting"
+        android:icon="@drawable/setting"/>
+
+</menu>
